@@ -1,0 +1,79 @@
+<script>
+	import { Target, Code, Database, LineChart, Users } from '@lucide/svelte';
+</script>
+
+<section class="py-12">
+	<div class="mb-12 text-center">
+		<h2 class="mb-4 text-4xl font-semibold">Our Services</h2>
+		<p class="text-lg text-gray-600">
+			We offer comprehensive solutions to help your business earn more and spend less both time and
+			money.
+		</p>
+	</div>
+
+	<div class="grid grid-cols-1 gap-6 md:grid-cols-3">
+		<!-- First row: 1x2 + 1x1 -->
+		<div
+			class="flex flex-col items-start rounded-sm border border-gray-200 bg-white p-8 transition-colors duration-300 hover:border-black md:col-span-2"
+		>
+			<div class="bg-primary/10 mb-4 rounded-full">
+				<Target class="text-primary h-8 w-8" />
+			</div>
+			<h3 class="mb-3 text-2xl font-bold">
+				Future Proof Your Business With Strategic AI Consulting
+			</h3>
+			<p class="text-gray-600">
+				We analyze your business needs and develop tailored AI strategies to
+				optimize operations, increase efficiency, and drive growth. We identify opportunities where
+				AI can make the biggest impact for your business.
+			</p>
+		</div>
+
+		<div
+			class="flex flex-col items-start rounded-sm border border-gray-200 bg-white p-8 transition-colors duration-300 hover:border-black"
+		>
+			<div class="bg-primary/10 mb-4 rounded-full">
+				<Code class="text-primary h-8 w-8" />
+			</div>
+			<h3 class="mb-3 text-2xl font-bold">Maximize Efficiency With Custom Software Solutions</h3>
+			<p class="text-gray-600">
+				We build or provide software solutions tailored to your specific business requirements,
+				ensuring seamless migration from your existing systems.
+			</p>
+		</div>
+
+		<div
+			class="flex flex-col items-start rounded-sm border border-gray-200 bg-white p-8 transition-colors duration-300 hover:border-black md:col-span-3"
+		>
+			<div class="bg-primary/10 mb-4 rounded-full">
+				<LineChart class="text-primary h-8 w-8" />
+			</div>
+			<h3 class="mb-3 text-2xl font-bold">
+				Business Intelligence & Analytics For Smarter Decisions
+			</h3>
+			<p class="text-gray-600">
+				Transform data into meaningful insights with our analytics service. We identify
+				opportunities and make data-driven insights that drive business growth. Our reports provide
+				insights that help you make smarter decisions.
+			</p>
+		</div>
+
+		<!-- Third row: 1x3 (full width) -->
+		<div
+			class="flex flex-col items-start rounded-sm border border-gray-200 bg-white p-8 transition-colors duration-300 hover:border-black md:col-span-3"
+		>
+			<div class="bg-primary/10 mb-4 rounded-full">
+				<Users class="text-primary h-8 w-8" />
+			</div>
+			<h3 class="mb-3 text-2xl font-bold">
+				Say Goodbye To Repetitive Time Consuming Tasks With Automation
+			</h3>
+			<p class="text-gray-600">
+				Streamline your operations and reduce costs with our intelligent automation solutions. We
+				identify repetitive tasks and implement AI-driven automation to increase efficiency, reduce
+				errors, and free up your team to focus on high-value activities.
+			</p>
+		</div>
+	</div>
+</section>
+
