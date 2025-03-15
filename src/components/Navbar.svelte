@@ -72,7 +72,7 @@
 		content: '';
 		position: absolute;
 		width: 0;
-		height: 1.2px;
+		height: 2px;
 		bottom: -4px;
 		left: 0;
 		background-color: currentColor;

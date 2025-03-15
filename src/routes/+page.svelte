@@ -7,7 +7,7 @@
 </script>
 
 <HeadingSection></HeadingSection>
-<ServicesSection></ServicesSection>
 <Questions></Questions>
-<Button link="mailto:contact@evob.tech" text="Contact Us"></Button>
 <OurValues></OurValues>
+<ServicesSection></ServicesSection>
+<Button link="mailto:contact@evob.tech" text="Contact Us"></Button>
