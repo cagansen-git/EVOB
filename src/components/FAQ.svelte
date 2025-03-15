@@ -63,7 +63,7 @@
 
 <section class="">
 	<h3 class="mb-6 text-3xl font-semibold text-black md:text-4xl">
-		Facing These Business Challenges? We Can Help.
+		People also asked.
 	</h3>
 
 	<div class="flex flex-col gap-2">
