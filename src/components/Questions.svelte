@@ -56,7 +56,7 @@
 </script>
 
 <section class="">
-	<h3 class="mb-6 text-3xl font-semibold text-black md:text-4xl">How we can help</h3>
+	<h3 class="mb-6 text-3xl font-semibold text-black md:text-4xl"> Facing These Business Challenges? We Can Help</h3>
 
 	<div class="flex flex-col gap-2">
 		{#each accordionItems as item, index}

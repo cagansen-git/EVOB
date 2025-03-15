@@ -17,11 +17,11 @@
 		<!-- right side navbar -->
 		<div class="gap-lg hidden items-center md:flex">
 			<a href="/contact" class="nav-link" data-sveltekit-preload-data>Contact Us</a>
+			<a href="/offers" class="nav-link" data-sveltekit-preload-data>Offers</a>
 			<a href="/services" class="nav-link" data-sveltekit-preload-data>Services</a>
 			<a href="/faq" class="nav-link" data-sveltekit-preload-data>FAQ</a>
-
 			<a href="/about" class="nav-link" data-sveltekit-preload-data>About</a>
-			<a href="/blog" class="nav-link" data-sveltekit-preload-data>Blog</a>
+			<a href="/insights" class="nav-link" data-sveltekit-preload-data>Insights</a>
 		</div>
 
 		<!-- mobile navbar button  -->
@@ -43,6 +43,9 @@
 				<li>
 					<a href="/contact" class="nav-link" data-sveltekit-preload-data>Contact Us</a>
 				</li>
+				<li>
+					<a href="/offers" class="nav-link" data-sveltekit-preload-data>Offers</a>
+				</li>
 
 				<li>
 					<a href="/services" class="nav-link" data-sveltekit-preload-data>Services</a>
@@ -54,7 +57,7 @@
 					<a href="/about" class="nav-link" data-sveltekit-preload-data>About</a>
 				</li>
 				<li>
-					<a href="/blog" class="nav-link" data-sveltekit-preload-data>Blog</a>
+					<a href="/insights" class="nav-link" data-sveltekit-preload-data>Insights</a>
 				</li>
 			</ul>
 		</div>

@@ -16,6 +16,6 @@
 		custom software solutions to maximize efficiency,
 		automating repetitive & tedious tasks to save time and money and providing business & growth intelligence for smarter decisions.
 	</h2>
-	<Button link="/services" text="Our Services"></Button>
+	<Button link="/offers" text="See Offers"></Button>
 	<Button link="/contact" text="Contact Us"></Button>
 </main>
