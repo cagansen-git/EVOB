@@ -28,6 +28,11 @@
 			content:
 				'The timeline for custom software development depends on the complexity of your requirements. Typically, we deliver MVPs (minimum viable products) within 8-12 weeks, with continuous updates and improvements after the initial release.'
 		},
+        {
+			title: '"Can analytics help us improve our product offerings?"',
+			content:
+				'Yes! By analyzing customer behavior and feedback, we help you identify which features and products are most valuable to your customers. This data-driven product development approach ensures you’re creating what your customers truly want, improving both customer satisfaction and business performance.'
+		},
 		{
 			title: '"How do I know if AI will give me a good return on investment?"',
 			content:
