@@ -2,7 +2,7 @@
 	const currentYear = new Date().getFullYear();
 </script>
 
-<footer class="footer mt-2xl p-xl rounded-tl-md rounded-tr-md bg-black text-white">
+<footer class="footer p-xl rounded-tl-md rounded-tr-md bg-black text-white mt-xl">
 	<div class="mx-auto max-w-7xl">
 		<div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
 			<!-- Company Info -->
@@ -28,7 +28,7 @@
 							>Home</a
 						>
 					</li>
-                    <li>
+					<li>
 						<a
 							href="/offers"
 							class="transition-colors hover:text-gray-300"
@@ -49,7 +49,6 @@
 							data-sveltekit-preload-data>About</a
 						>
 					</li>
-
 				</ul>
 			</div>
 
@@ -107,3 +106,4 @@
 		</div>
 	</div>
 </footer>
+
