@@ -3,11 +3,15 @@
 </script>
 
 <section class="py-12">
-	<div class="mb-12 text-center">
+	<div class="mb-12">
 		<h2 class="mb-4 text-4xl font-semibold">Our Services</h2>
 		<p class="text-lg text-gray-600">
 			We offer comprehensive solutions to help your business earn more and spend less both time and
-			money.
+			money. 
+		</p>
+
+		<p class="text-lg text-gray-600">
+			- These are just a overview of our services. We provide custom solutions for you, powered by our services. - 
 		</p>
 	</div>
 
@@ -49,7 +53,7 @@
 				<LineChart class="text-primary h-8 w-8" />
 			</div>
 			<h3 class="mb-3 text-2xl font-bold">
-				Business Intelligence & Analytics For Smarter Decisions
+				Business & Growth Intelligence & Analytics For Smarter Decisions
 			</h3>
 			<p class="text-gray-600">
 				Transform data into meaningful insights with our analytics service. We identify
