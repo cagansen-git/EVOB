@@ -51,7 +51,7 @@
 		{
 			title: '"We need something else."',
 			content:
-				'We’re happy to help! Book a free consultation, and we’ll answer any questions you have about AI, automation, software optimization, and how we can support your business. No commitment—just clarity.'
+				'We’re happy to help! Book a free consultation, and we’ll answer any questions you have about AI, automation, software optimization, and how we can support your business.'
 		}
 	]);
 
