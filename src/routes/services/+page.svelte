@@ -105,7 +105,7 @@
 	{#each services as service}
 		<section class="service-section">
 			<div class="service-heading">
-				<h2>{service.title}</h2>
+				<h2> <u>{service.title}</u> </h2>
 			</div>
 			<div class="service-accordion">
 				<Accordion items={service.items} />
@@ -119,7 +119,7 @@
 		width: 100%;
 		max-width: 1200px;
 		margin: 0 auto;
-		padding: 2rem 1rem;
+		padding: 2rem 0rem;
 		display: flex;
 		flex-direction: column;
 		gap: 3rem;
@@ -149,9 +149,7 @@
 
 	h2 {
 		margin: 0;
-		padding: 1rem;
-		background-color: #f5f5f5;
-		border-left: 4px solid #333;
+		padding: 1rem 0rem;
 		font-size: 1.5rem;
 	}
 
@@ -169,4 +167,6 @@
 			gap: 1rem;
 		}
 	}
+
+
 </style>

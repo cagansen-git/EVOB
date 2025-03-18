@@ -13,12 +13,12 @@
 			content:
 				'Yes, we offer ongoing maintenance and support to ensure your software and AI tools remain up-to-date and perform optimally. Our team is always available to provide updates, troubleshoot issues, and make improvements based on your evolving needs.'
 		},
-        {
+		{
 			title: '"How can we track and measure customer satisfaction?"',
 			content:
 				'We integrate customer satisfaction tools such as surveys, feedback forms, and sentiment analysis into your system. This enables real-time tracking of customer satisfaction metrics, helping you quickly respond to issues and improve overall customer experience.'
 		},
-        {
+		{
 			title: '"We don’t have actionable insights from our customer interactions."',
 			content:
 				'We help you collect, analyze, and visualize customer data to turn interactions into valuable business insights. Our reports and dashboards reveal trends, preferences, and pain points, allowing you to personalize and enhance customer experiences.'
@@ -28,7 +28,7 @@
 			content:
 				'The timeline for custom software development depends on the complexity of your requirements. Typically, we deliver MVPs (minimum viable products) within 8-12 weeks, with continuous updates and improvements after the initial release.'
 		},
-        {
+		{
 			title: '"Can analytics help us improve our product offerings?"',
 			content:
 				'Yes! By analyzing customer behavior and feedback, we help you identify which features and products are most valuable to your customers. This data-driven product development approach ensures you’re creating what your customers truly want, improving both customer satisfaction and business performance.'
@@ -43,7 +43,7 @@
 			content:
 				'Our AI solutions are designed to be user-friendly, and we provide comprehensive training to your team. We also offer ongoing support to ensure a smooth adoption process. The goal is to enhance your team’s capabilities, not complicate their workflow.'
 		},
-        {
+		{
 			title: '"How can we improve our customer retention"',
 			content:
 				'By using predictive analytics, we help you identify customer behaviors that lead to churn. With actionable insights, you can implement targeted strategies to improve customer retention, loyalty, and lifetime value.'
@@ -63,7 +63,7 @@
 			content:
 				'We leverage customer analytics to identify pain points in the customer journey and recommend improvements. By using real-time data, we can personalize experiences, optimize touchpoints, and enhance customer satisfaction—leading to increased loyalty and higher retention.'
 		},
-        {
+		{
 			title: '"We’re not sure if AI will work for us"',
 			content:
 				'AI is transforming businesses across industries, but it’s not one-size-fits-all. We assess your operations and pinpoint AI-driven solutions that align with your goals. Whether it’s automation, data insights, or customer engagement, we ensure AI enhances efficiency, not complexity.'
@@ -112,7 +112,7 @@
 </script>
 
 <section class="">
-	<h3 class="mb-6 text-3xl font-semibold text-black md:text-4xl">People also asked.</h3>
+	<h3 class="mb-6 text-3xl text-black md:text-4xl">People also asked.</h3>
 
 	<div class="flex flex-col gap-2">
 		{#each accordionItems as item, index}

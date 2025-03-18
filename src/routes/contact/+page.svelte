@@ -3,7 +3,7 @@
 </script>
 
 <h1 class="mt-28 md:mt-36 mb-18 text-4xl font-light tracking-tight md:text-6xl">
-	Are you interested grow your business? Contact us to discuss more.
+	Want to scale your business, boost revenue, and gain a competitive advantage? Contact us to discuss more.
 </h1>
 <div class="flex flex-col space-y-4 md:flex-row md:space-y-0 gap-4">
 	<Button
