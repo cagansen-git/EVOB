@@ -62,11 +62,6 @@
 			title: 'Automation Services',
 			items: [
 				{
-					title: 'Business Process Automation',
-					content:
-						'We automate manual, time-consuming business processes using AI and workflow automation, reducing errors and increasing operational efficiency.'
-				},
-				{
 					title: 'Workflow Automation',
 					content:
 						'We integrate smart automation tools into your daily operations, ensuring seamless collaboration, task management, and productivity enhancements.'
@@ -82,9 +77,9 @@
 			title: 'Data & Analytics Services',
 			items: [
 				{
-					title: 'Business Intelligence & Analytics',
+					title: 'Product Intelligence & Analytics',
 					content:
-						'We transform raw data into actionable insights, giving you a real-time understanding of your business performance for better decision-making.'
+						'We optimize product strategies by providing deep insights into product performance, customer preferences, and market trends.'
 				},
 				{
 					title: 'Growth Intelligence & Analytics',
@@ -117,7 +112,6 @@
 <style>
 	.services-container {
 		width: 100%;
-		max-width: 1200px;
 		margin: 0 auto;
 		padding: 2rem 0rem;
 		display: flex;

@@ -81,20 +81,6 @@
 							>FAQ</a
 						>
 					</li>
-					<li>
-						<a
-							href="/privacy-policy"
-							class="transition-colors hover:text-gray-300"
-							data-sveltekit-preload-data>Privacy Policy</a
-						>
-					</li>
-					<li>
-						<a
-							href="/terms-of-service"
-							class="transition-colors hover:text-gray-300"
-							data-sveltekit-preload-data>Terms of Service</a
-						>
-					</li>
 				</ul>
 			</div>
 		</div>

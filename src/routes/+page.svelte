@@ -10,4 +10,4 @@
 <Questions></Questions>
 <OurValues></OurValues>
 <ServicesSection></ServicesSection>
-<Button link="/contact" text="Contact Us"></Button>
+<Button link="/contact" text="Contact Us" target=""></Button>
