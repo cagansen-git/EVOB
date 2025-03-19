@@ -14,7 +14,7 @@
 		</span>
 		which are scalable, secure, and cost-effective. We are helping businesses make the most of AI (LLMs),
 		custom software solutions to maximize efficiency,
-		automating repetitive & tedious tasks to save time and money and providing business & growth intelligence for smarter decisions.
+		automating repetitive & tedious tasks to save time and money and providing intelligence & analytics for smarter decisions.
 	</h2>
 	<Button link="/offers" text="See Offers" target=""></Button>
 	<Button link="/contact" text="Contact Us" target=""></Button>

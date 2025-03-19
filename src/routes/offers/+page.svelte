@@ -9,12 +9,12 @@
 				{
 					title: 'Minimum Viable Product (MVP)',
 					content:
-						' Get a fully functional minimum viable product (MVP) built and deployed in 10 weeks (Might change based on the requirements of project). Our team will work with you to define the scope, develop the software, and launch your product to market quickly and efficiently.'
+						'We will build a fully functional minimum viable product (MVP) built and deployed in 10 weeks (Might change based on the requirements of project). Our team will work with you to define the scope, develop the software, and launch your product to market quickly and efficiently.'
 				},
 				{
 					title: 'Custom Business Tool',
 					content:
-						'Get a tailored software solution that fits your exact business needs whether it’s CRM, , or internal automation.'
+						'We will build tailored software solution that fits your exact business needs. Our team will work with you to understand your requirements, design the software, and develop a solution that drives efficiency and growth.'
 				},
 				{
 					title: 'Legacy Software Modernization',
@@ -24,18 +24,18 @@
 				{
 					title: 'Privacy-First Software Transition',
 					content:
-						'Move to privacy-focused, self-hosted solutions to protect your business data and reduce dependency on third-party providers.'
+						'We will Move you to privacy-focused, self-hosted solutions to protect your business data and reduce dependency on third-party providers.'
 				},
 				{
 					title: 'Software Migration & Replacement',
 					content:
-						'Seamlessly move your applications and data to new platforms with minimal downtime and maximum efficiency.'
+						'We will Seamlessly move your applications and data to new platforms with minimal downtime and maximum efficiency.'
 				},
 
 				{
 					title: 'Self-Hosted Alternative Implementation ',
 					content:
-						' Transition from costly SaaS solutions to self-hosted and open-source alternatives for better control, security, and reduced expenses.'
+						'We will move you from costly SaaS solutions to self-hosted and open-source alternatives for better control, security, and reduced expenses.'
 				},
 				{
 					title: 'Ongoing Support & Maintenance',

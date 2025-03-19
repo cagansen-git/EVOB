@@ -50,7 +50,7 @@
 				},
 				{
 					title: 'AI Assistants',
-					content: 'We develop intelligent AI assistants that enhance customer support, internal workflows, and decision-making processes, giving your business a 24/7 productivity boost.'
+					content: 'We develop intelligent AI assistants that enhance customer support & internal workflows giving your business a 24/7 productivity boost.'
 				},
 				{
 					title: 'Ongoing Support & Maintenance',
@@ -79,12 +79,12 @@
 				{
 					title: 'Product Intelligence & Analytics',
 					content:
-						'We optimize product strategies by providing deep insights into product performance, customer preferences, and market trends.'
+						'We track and analyze your online product by providing deep insights into product performance, customer preferences, what your customers want and do not want.'
 				},
 				{
 					title: 'Growth Intelligence & Analytics',
 					content:
-						'We leverage data-driven strategies to identify growth opportunities, optimize marketing efforts, and maximize profitability.'
+						'We leverage data-driven strategies to identify growth opportunities and maximize profitability.'
 				},
 				{
 					title: 'Customer Intelligence & Analytics',

@@ -21,7 +21,7 @@
 			<a href="/services" class="nav-link" data-sveltekit-preload-data>Services</a>
 			<a href="/faq" class="nav-link" data-sveltekit-preload-data>FAQ</a>
 			<a href="/about" class="nav-link" data-sveltekit-preload-data>About</a>
-			<a href="/insights" class="nav-link" data-sveltekit-preload-data>Insights</a>
+			<!-- <a href="/insights" class="nav-link" data-sveltekit-preload-data>Insights</a> -->
 		</div>
 
 		<!-- mobile navbar button  -->
@@ -57,7 +57,7 @@
 					<a href="/about" class="nav-link" data-sveltekit-preload-data>About</a>
 				</li>
 				<li>
-					<a href="/insights" class="nav-link" data-sveltekit-preload-data>Insights</a>
+					<!-- <a href="/insights" class="nav-link" data-sveltekit-preload-data>Insights</a> -->
 				</li>
 			</ul>
 		</div>

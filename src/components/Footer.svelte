@@ -70,11 +70,11 @@
 				<h3 class="mb-4 text-lg font-semibold">Resources</h3>
 				<ul class="space-y-2">
 					<li>
-						<a
+						<!-- <a
 							href="/insights"
 							class="transition-colors hover:text-gray-300"
 							data-sveltekit-preload-data>Insıghts</a
-						>
+						> -->
 					</li>
 					<li>
 						<a href="/faq" class="transition-colors hover:text-gray-300" data-sveltekit-preload-data
