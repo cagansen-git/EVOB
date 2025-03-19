@@ -13,23 +13,28 @@
 				},
 				{
 					title: 'Software Migration & Replacement',
-					content: 'We seamlessly migrate your existing software to a more robust and cost-effective solution. Whether upgrading legacy systems or transitioning to cloud-based platforms, we ensure a smooth migration with minimal downtime.'
+					content:
+						'We seamlessly migrate your existing software to a more robust and cost-effective solution. Whether upgrading legacy systems or transitioning to cloud-based platforms, we ensure a smooth migration with minimal downtime.'
 				},
 				{
 					title: 'Cost Optimization & Software Expense Reduction',
-					content: 'We analyze your current software stack and eliminate unnecessary costs by replacing expensive tools with more efficient, budget-friendly alternatives—without compromising performance.'
+					content:
+						'We analyze your current software stack and eliminate unnecessary costs by replacing expensive tools with more efficient, budget-friendly alternatives—without compromising performance.'
 				},
 				{
 					title: 'Replacement With Open-Source & Self-Hosted Alternatives',
-					content: 'We help you switch from costly, proprietary software to powerful open-source and self-hosted solutions, giving you more control, security, and long-term savings.'
+					content:
+						'We help you switch from costly, proprietary software to powerful open-source and self-hosted solutions, giving you more control, security, and long-term savings.'
 				},
 				{
 					title: 'Web UI/UX Design',
-					content: 'We create visually stunning and user-friendly interfaces that enhance user experience and engagement. Our designs are optimized for conversions, accessibility, and brand consistency.'
+					content:
+						'We create visually stunning and user-friendly interfaces that enhance user experience and engagement. Our designs are optimized for conversions, accessibility, and brand consistency.'
 				},
 				{
 					title: 'Ongoing Support & Maintenance',
-					content: 'We provide continuous monitoring, updates, and technical support to ensure your software and systems run smoothly, securely, and efficiently.'
+					content:
+						'We provide continuous monitoring, updates, and technical support to ensure your software and systems run smoothly, securely, and efficiently.'
 				}
 			]
 		},
@@ -38,23 +43,28 @@
 			items: [
 				{
 					title: 'AI Consulting',
-					content: 'We help you to implement AI strategies that optimize workflows, enhance decision-making, and unlock new revenue opportunities.'
+					content:
+						'We help you to implement AI strategies that optimize workflows, enhance decision-making, and unlock new revenue opportunities.'
 				},
 				{
 					title: 'LLM Alignment & Optimization',
-					content: 'We help businesses optimize Large Language Models (LLMs) to perform better for their specific use cases'
+					content:
+						'We help businesses optimize Large Language Models (LLMs) to perform better for their specific use cases'
 				},
 				{
 					title: 'AI Agents & Automation',
-					content: 'We build AI-powered agents that automate repetitive tasks, streamline operations, and improve customer interactions—saving you time and resources.'
+					content:
+						'We build AI-powered agents that automate repetitive tasks, streamline operations, and improve customer interactions—saving you time and resources.'
 				},
 				{
 					title: 'AI Assistants',
-					content: 'We develop intelligent AI assistants that enhance customer support & internal workflows giving your business a 24/7 productivity boost.'
+					content:
+						'We develop intelligent AI assistants that enhance customer support & internal workflows giving your business a 24/7 productivity boost.'
 				},
 				{
 					title: 'Ongoing Support & Maintenance',
-					content: 'We continuously optimize and monitor AI solutions to ensure long-term performance, accuracy, and adaptability as your business evolves.'
+					content:
+						'We continuously optimize and monitor AI solutions to ensure long-term performance, accuracy, and adaptability as your business evolves.'
 				}
 			]
 		},
@@ -90,17 +100,22 @@
 					title: 'Customer Intelligence & Analytics',
 					content:
 						'We help you understand your customers like never before by analyzing their behaviors, preferences, and interactions. Our Customer Intelligence & Analytics solutions provide data-driven insights that allow you to personalize marketing, improve customer retention, and maximize lifetime value.'
-				},
+				}
 			]
 		}
 	];
 </script>
 
+<svelte:head
+	><meta property="og:title" content="EVOB | Homepage" />
+	<meta name="twitter:title" content="EVOB | Homepage" />
+</svelte:head>
+
 <div class="services-container">
 	{#each services as service}
 		<section class="service-section">
 			<div class="service-heading">
-				<h2> <u>{service.title}</u> </h2>
+				<h2><u>{service.title}</u></h2>
 			</div>
 			<div class="service-accordion">
 				<Accordion items={service.items} />
@@ -161,6 +176,4 @@
 			gap: 1rem;
 		}
 	}
-
-
 </style>

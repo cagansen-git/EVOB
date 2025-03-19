@@ -6,6 +6,11 @@
 	import Button from '../components/Button.svelte';
 </script>
 
+<svelte:head>
+	<meta property="og:title" content="EVOB | Homepage" />
+	<meta name="twitter:title" content="EVOB | Homepage" />
+</svelte:head>
+
 <HeadingSection></HeadingSection>
 <Questions></Questions>
 <OurValues></OurValues>

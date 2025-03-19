@@ -84,7 +84,7 @@
 				}
 			]
 		},
-        {
+		{
 			title: 'Business Offerings',
 			items: [
 				{
@@ -109,7 +109,7 @@
 				}
 			]
 		},
-        {
+		{
 			title: 'Automation Offerings',
 			items: [
 				{
@@ -127,6 +127,10 @@
 	];
 </script>
 
+<svelte:head
+	><meta property="og:title" content="EVOB | Offers" />
+	<meta name="twitter:title" content="EVOB | Offers" />
+</svelte:head>
 <div class="services-container">
 	{#each services as service}
 		<section class="service-section">
