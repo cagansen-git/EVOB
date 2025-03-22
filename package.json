@@ -37,6 +37,7 @@
 	},
 	"dependencies": {
 		"@fontsource-variable/dm-sans": "^5.2.5",
-		"@lucide/svelte": "^0.479.0"
+		"@lucide/svelte": "^0.479.0",
+		"posthog-js": "^1.232.4"
 	}
 }
