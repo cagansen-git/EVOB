@@ -1,32 +1,16 @@
 <script lang="ts">
 	import '../app.css';
-	// Supports weights 100-900
-	// Supports weights 100-900
 	import '@fontsource-variable/dm-sans';
 	import Navbar from '../components/Navbar.svelte';
 	import Footer from '../components/Footer.svelte';
-	import posthog from 'posthog-js';
 	import { browser } from '$app/environment';
-	import { onMount } from 'svelte';
 	import { beforeNavigate, afterNavigate } from '$app/navigation';
+	import posthog from 'posthog-js';
 
 	if (browser) {
 		beforeNavigate(() => posthog.capture('$pageleave'));
 		afterNavigate(() => posthog.capture('$pageview'));
 	}
-
-	onMount(() => {
-		if (browser) {
-			posthog.init('phc_Dlmugsfjscm4E4OMw74c12IsFEmmcpJSwDCSR4Bxz6u', {
-				api_host: 'https://eu.i.posthog.com',
-				person_profiles: 'identified_only',
-				capture_pageview: false,
-				capture_pageleave: false // or 'always' to create profiles for anonymous users as well
-			});
-		}
-		return;
-	});
-
 	let { children } = $props();
 </script>
 
