@@ -12,7 +12,7 @@
 			>we drive revenue growth, reduce costs, improve operational efficiency, and customer
 			satisfaction through technology-driven business solutions
 		</span>
-		which are scalable, secure, and cost-effective. We are helping businesses make the most of AI (LLMs),
+		.We are helping businesses make the most of AI (LLMs),
 		custom software solutions to maximize efficiency,
 		automating repetitive & tedious tasks to save time and money and providing intelligence & analytics for smarter decisions.
 	</h2>
