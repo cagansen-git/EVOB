@@ -13,7 +13,7 @@
 		if (browser) {
 			posthog.init('phc_Dlmugsfjscm4E4OMw74c12IsFEmmcpJSwDCSR4Bxz6u', {
 				api_host: 'https://eu.i.posthog.com',
-				person_profiles: 'always' // or 'always' to create profiles for anonymous users as well
+				person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
 			});
 		}
 		return;
