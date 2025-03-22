@@ -17,7 +17,10 @@ const config = {
 				environment: undefined,
 				persist: undefined
 			}
-		})
+		}),
+		paths: {
+			relative: false,
+		},
 	}
 };
 
