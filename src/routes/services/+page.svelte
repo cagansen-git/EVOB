@@ -22,11 +22,6 @@
 						'We analyze your current software stack and eliminate unnecessary costs by replacing expensive tools with more efficient, budget-friendly alternatives—without compromising performance.'
 				},
 				{
-					title: 'Replacement With Open-Source & Self-Hosted Alternatives',
-					content:
-						'We help you switch from costly, proprietary software to powerful open-source and self-hosted solutions, giving you more control, security, and long-term savings.'
-				},
-				{
 					title: 'Web UI/UX Design',
 					content:
 						'We create visually stunning and user-friendly interfaces that enhance user experience and engagement. Our designs are optimized for conversions, accessibility, and brand consistency.'
@@ -74,7 +69,7 @@
 				{
 					title: 'Workflow Automation',
 					content:
-						'We integrate smart automation tools into your daily operations, ensuring seamless collaboration, task management, and productivity enhancements.'
+						'We integrate smart automation into your daily operations, improving efficiency, reducing errors, and freeing up your team to focus on high-value tasks.'
 				},
 				{
 					title: 'Ongoing Support & Maintenance',
@@ -92,14 +87,13 @@
 						'We track and analyze your online product by providing deep insights into product performance, customer preferences, what your customers want and do not want.'
 				},
 				{
-					title: 'Growth Intelligence & Analytics',
-					content:
-						'We leverage data-driven strategies to identify growth opportunities and maximize profitability.'
-				},
-				{
 					title: 'Customer Intelligence & Analytics',
 					content:
 						'We help you understand your customers like never before by analyzing their behaviors, preferences, and interactions. Our Customer Intelligence & Analytics solutions provide data-driven insights that allow you to personalize marketing, improve customer retention, and maximize lifetime value.'
+				},
+				{
+					title:"On going Support & Maintenance",
+					content:"We provide continuous monitoring & reports to ensure your efforts aligned with your business goals." 
 				}
 			]
 		}
