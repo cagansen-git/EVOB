@@ -4,7 +4,7 @@
 
 <section class="py-12">
 	<div class="mb-12">
-		<h2 class="mb-4 text-4xl font-semibold">Our Services</h2>
+		<h2 class="mb-4 text-4xl">Our Services</h2>
 		<p class="text-lg text-gray-600">
 			We offer comprehensive solutions to help your business earn more and spend less both time and
 			money. 
@@ -23,7 +23,7 @@
 			<div class="bg-primary/10 mb-4 rounded-full">
 				<Target class="text-primary h-8 w-8" />
 			</div>
-			<h3 class="mb-3 text-2xl font-bold">
+			<h3 class="mb-3 text-2xl ">
 				Future Proof Your Business With Strategic AI Consulting
 			</h3>
 			<p class="text-gray-600">
@@ -39,7 +39,7 @@
 			<div class="bg-primary/10 mb-4 rounded-full">
 				<Code class="text-primary h-8 w-8" />
 			</div>
-			<h3 class="mb-3 text-2xl font-bold">Maximize Efficiency With Custom Software Solutions</h3>
+			<h3 class="mb-3 text-2xl ">Maximize Efficiency With Custom Software Solutions</h3>
 			<p class="text-gray-600">
 				We build or provide software solutions tailored to your specific business requirements,
 				ensuring seamless migration from your existing systems.
@@ -52,7 +52,7 @@
 			<div class="bg-primary/10 mb-4 rounded-full">
 				<LineChart class="text-primary h-8 w-8" />
 			</div>
-			<h3 class="mb-3 text-2xl font-bold">
+			<h3 class="mb-3 text-2xl ">
 				Business & Growth Intelligence & Analytics For Smarter Decisions
 			</h3>
 			<p class="text-gray-600">
@@ -69,7 +69,7 @@
 			<div class="bg-primary/10 mb-4 rounded-full">
 				<Users class="text-primary h-8 w-8" />
 			</div>
-			<h3 class="mb-3 text-2xl font-bold">
+			<h3 class="mb-3 text-2xl ">
 				Say Goodbye To Repetitive Time Consuming Tasks With Automation
 			</h3>
 			<p class="text-gray-600">

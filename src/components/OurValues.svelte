@@ -35,7 +35,7 @@
 		<div class="grid grid-cols-1 gap-12 lg:grid-cols-12">
 			<!-- Left-aligned text description -->
 			<div class="lg:col-span-4">
-				<h2 class="mb-6 text-3xl font-semibold text-black md:text-4xl">Our Values</h2>
+				<h2 class="mb-6 text-3xl  text-black md:text-4xl">Our Values</h2>
 				<p class="mb-8 text-gray-700">
 					Our core values define who we are and guide every decision we make. They represent our
 					approach to delivering exceptional results for our clients.

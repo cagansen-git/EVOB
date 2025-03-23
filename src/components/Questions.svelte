@@ -62,7 +62,7 @@
 </script>
 
 <section class="">
-	<h3 class="mb-6 text-3xl font-semibold text-black md:text-4xl">
+	<h3 class="mb-6 text-3xl md:text-4xl ">
 		Facing These Business Challenges? We Can Help.
 	</h3>
 
