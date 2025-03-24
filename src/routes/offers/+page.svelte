@@ -7,14 +7,14 @@
 			title: 'Software Offerings',
 			items: [
 				{
+					title: 'Custom Business Software',
+					content:
+						'We will build tailored software solution that fits your exact business needs. Our team will work with you to understand your requirements, design the software, and develop a solution that drives efficiency and growth.'
+				},
+				{
 					title: 'Minimum Viable Product (MVP)',
 					content:
 						'We will build a fully functional minimum viable product (MVP) built and deployed in 10 weeks (Might change based on the requirements of project). Our team will work with you to define the scope, develop the software, and launch your product to market quickly and efficiently.'
-				},
-				{
-					title: 'Custom Business Tool',
-					content:
-						'We will build tailored software solution that fits your exact business needs. Our team will work with you to understand your requirements, design the software, and develop a solution that drives efficiency and growth.'
 				},
 				{
 					title: 'Legacy Software Modernization',
@@ -50,17 +50,17 @@
 				{
 					title: 'AI Adaptation & Integration Strategy',
 					content:
-						'Seamlessly integrate AI into your business with a tailored roadmap designed to enhance efficiency and innovation. We conduct in-depth strategy workshops, assess AI use cases relevant to your industry, and select the best AI models and tools such as GPT, OpenAI, Claude, or Gemini. Our experts provide a structured deployment plan with workflow automation to ensure a smooth transition, setting your business up for long-term success with AI-driven capabilities.'
+						'Seamlessly integrate AI into your business with a tailored roadmap designed to enhance efficiency and innovation. We conduct in-depth strategy plans, assess AI use cases relevant to your industry, and select the best AI models and tools such as GPT, OpenAI, Claude, or Gemini. Our experts provide a structured deployment plan with workflow automation to ensure a smooth transition, setting your business up for long-term success with AI-driven capabilities.'
 				},
 				{
-					title: 'AI-Powered Business Automation',
+					title: 'LLM Alignment & Optimization',
 					content:
-						'Transform your operations by leveraging AI to automate workflows, streamline decision-making, and enhance efficiency across sales, customer service, and internal processes. We build intelligent AI-driven chatbots and implement document processing automation to optimize your business. By eliminating repetitive tasks and enhancing operational accuracy, your company can reduce costs and focus on high-value growth opportunities.'
+						'Deploy AI solutions that are customized to meet your business’s unique needs, ensuring maximum efficiency and accuracy. We handle AI model selection, prompt engineering, and optimization techniques such as Retrieval-Augmented Generation (RAG) to improve model accuracy. Our experts also fine-tune LLM models, ensuring compliance, reducing bias, and aligning AI outputs with business objectives.'
 				},
 				{
-					title: 'Custom AI Deployment & Optimization',
+					title: 'AI-Powered Workflow Automation',
 					content:
-						'Deploy AI solutions that are customized to meet your business’s unique needs, ensuring maximum efficiency and accuracy. We handle AI model selection and deployment, advanced prompt engineering, and optimization techniques such as Retrieval-Augmented Generation (RAG) to improve model accuracy. Our experts also fine-tune AI performance without modifying core model weights, ensuring compliance, reducing bias, and aligning AI outputs with business objectives.'
+						'Transform your operations by leveraging AI to automate workflows, streamline decision-making, and enhance efficiency across sales, customer service, and internal processes. By eliminating repetitive tasks and enhancing operational accuracy, your company can reduce costs and focus on high-value growth opportunities.'
 				},
 				{
 					title: 'AI-Driven Customer Experience Optimization',
@@ -85,31 +85,6 @@
 			]
 		},
 		{
-			title: 'Business Offerings',
-			items: [
-				{
-					title: 'Customer Intelligence & Analytics',
-					content:
-						'Advanced Customer Intelligence and Analytics solutions designed to help businesses gain deeper insights into customer behavior, preferences, and trends. By leveraging data-driven approaches, we enable you to make informed, strategic decisions that enhance customer engagement, optimize marketing efforts, and drive business growth.'
-				},
-				{
-					title: 'Growth Intelligence & Analytics',
-					content:
-						"We offer comprehensive Growth Intelligence and Analytics solutions designed to empower businesses with actionable insights that drive sustainable growth. By combining advanced data analysis with strategic intelligence, we help you uncover growth opportunities, optimize performance, and make data-driven decisions that accelerate your business's success."
-				},
-				{
-					title: 'Product Intelligence & Analytics',
-					content:
-						'Our Product Intelligence and Analytics services are designed to help businesses optimize their product strategies by providing deep insights into product performance and customer preferences. Through advanced data analysis and actionable intelligence, we enable you to make data-driven decisions that enhance product development, improve user experience, and drive sustained growth.'
-				},
-				{
-					title: 'Ongoing Support & Maintenance',
-					content:
-						'We provide continuous monitoring, updates, and technical support to ensure your software and systems run smoothly, securely, and efficiently.'
-				}
-			]
-		},
-		{
 			title: 'Automation Offerings',
 			items: [
 				{
@@ -123,12 +98,32 @@
 						'We provide continuous monitoring, updates, and technical support to ensure your software and systems run smoothly, securely, and efficiently.'
 				}
 			]
+		},
+		{
+			title: 'Data & Analytics Offerings',
+			items: [
+				{
+					title: 'Customer Intelligence & Analytics',
+					content:
+						'Advanced Customer Intelligence and Analytics solutions designed to help businesses gain deeper insights into customer behavior, preferences, and trends. By leveraging data-driven approaches, we enable you to make informed, strategic decisions that enhance customer engagement, optimize marketing efforts, and drive business growth.'
+				},
+				{
+					title: 'Product Intelligence & Analytics',
+					content:
+						'Our Product Intelligence and Analytics services are designed to help businesses optimize their product strategies by providing deep insights into product performance and customer preferences. Through advanced data analysis and actionable intelligence, we enable you to make data-driven decisions that enhance product development, improve user experience, and drive sustained growth.'
+				},
+				{
+					title: 'Ongoing Support & Maintenance',
+					content:
+						'We provide continuous monitoring & reports to ensure your efforts aligned with your business goals.'
+				}
+			]
 		}
 	];
 </script>
 
-<svelte:head
-	><meta property="og:title" content="EVOB | Offers" />
+<svelte:head>
+	<meta property="og:title" content="EVOB | Offers" />
 	<meta name="twitter:title" content="EVOB | Offers" />
 </svelte:head>
 <div class="services-container">

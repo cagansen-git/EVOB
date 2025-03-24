@@ -7,6 +7,11 @@
 			title: 'Software Services',
 			items: [
 				{
+					title: 'Sofwtare Consulting',
+					content:
+						'We analyze your current software stack and eliminate unnecessary costs, inefficiencies, and redundancies. Our software consulting services help you optimize your technology investments and align your software with your business goals.'
+				},
+				{
 					title: 'Custom Software Development',
 					content:
 						'We design, develop, and deploy software solutions tailored to your unique business needs. Whether you need a brand-new application or improvements to your existing system, we build scalable, high-performance software that drives efficiency and growth.'
@@ -15,11 +20,6 @@
 					title: 'Software Migration & Replacement',
 					content:
 						'We seamlessly migrate your existing software to a more robust and cost-effective solution. Whether upgrading legacy systems or transitioning to cloud-based platforms, we ensure a smooth migration with minimal downtime.'
-				},
-				{
-					title: 'Cost Optimization & Software Expense Reduction',
-					content:
-						'We analyze your current software stack and eliminate unnecessary costs by replacing expensive tools with more efficient, budget-friendly alternatives—without compromising performance.'
 				},
 				{
 					title: 'Web UI/UX Design',
@@ -42,11 +42,6 @@
 						'We help you to implement AI strategies that optimize workflows, enhance decision-making, and unlock new revenue opportunities.'
 				},
 				{
-					title: 'LLM Alignment & Optimization',
-					content:
-						'We help businesses optimize Large Language Models (LLMs) to perform better for their specific use cases'
-				},
-				{
 					title: 'AI Agents & Automation',
 					content:
 						'We build AI-powered agents that automate repetitive tasks, streamline operations, and improve customer interactions—saving you time and resources.'
@@ -55,6 +50,11 @@
 					title: 'AI Assistants',
 					content:
 						'We develop intelligent AI assistants that enhance customer support & internal workflows giving your business a 24/7 productivity boost.'
+				},
+				{
+					title: 'LLM Alignment & Optimization',
+					content:
+						'We help businesses optimize Large Language Models (LLMs) to perform better for their specific use cases'
 				},
 				{
 					title: 'Ongoing Support & Maintenance',
