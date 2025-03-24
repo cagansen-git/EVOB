@@ -103,15 +103,16 @@
 			title: 'Data & Analytics Offerings',
 			items: [
 				{
-					title: 'Customer Intelligence & Analytics',
-					content:
-						'Advanced Customer Intelligence and Analytics solutions designed to help businesses gain deeper insights into customer behavior, preferences, and trends. By leveraging data-driven approaches, we enable you to make informed, strategic decisions that enhance customer engagement, optimize marketing efforts, and drive business growth.'
-				},
-				{
 					title: 'Product Intelligence & Analytics',
 					content:
 						'Our Product Intelligence and Analytics services are designed to help businesses optimize their product strategies by providing deep insights into product performance and customer preferences. Through advanced data analysis and actionable intelligence, we enable you to make data-driven decisions that enhance product development, improve user experience, and drive sustained growth.'
 				},
+				{
+					title: 'Customer Intelligence & Analytics',
+					content:
+						'Advanced Customer Intelligence and Analytics solutions designed to help businesses gain deeper insights into customer behavior, preferences, and trends. By leveraging data-driven approaches, we enable you to make informed, strategic decisions that enhance customer engagement, optimize marketing efforts, and drive business growth.'
+				},
+
 				{
 					title: 'Ongoing Support & Maintenance',
 					content:

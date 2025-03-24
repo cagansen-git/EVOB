@@ -7,7 +7,7 @@
 			title: 'Software Services',
 			items: [
 				{
-					title: 'Sofwtare Consulting',
+					title: 'Software Consulting',
 					content:
 						'We analyze your current software stack and eliminate unnecessary costs, inefficiencies, and redundancies. Our software consulting services help you optimize your technology investments and align your software with your business goals.'
 				},

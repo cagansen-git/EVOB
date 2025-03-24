@@ -10,7 +10,7 @@
 	<h2 class="my-lg text-xl">
 		<span class="bg-gray-200"
 			>We drive business growth through our technology-driven services.
-		</span>. We help businesses leverage AI (LLMs), develop custom software solutions for unique
+		</span> We help businesses leverage AI (LLMs), develop custom software solutions for unique
 		needs, automate repetitive tasks to save time and money, and provide intelligence & analytics
 		for data-driven decision-making.
 	</h2>
