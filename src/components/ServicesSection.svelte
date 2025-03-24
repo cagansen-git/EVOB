@@ -11,10 +11,7 @@
 			money.
 		</p>
 
-		<p class="text-gray-700">
-			- These are just a overview of our services. We provide custom solutions for you, powered by
-			our services. -
-		</p>
+		
 	</div>
 
 	<div class="grid grid-cols-1 gap-6 md:grid-cols-3">
@@ -25,7 +22,7 @@
 			<div class="bg-primary/10 mb-4 rounded-full">
 				<Target class="text-primary h-8 w-8" />
 			</div>
-			<h3 class="mb-3 md:text-xl lg:text-2xl">Future Proof Your Business With Strategic AI Consulting</h3>
+			<h3 class="mb-3 md:text-xl lg:text-2xl">Strategic AI Consulting</h3>
 			<p class="text-gray-700">
 				We analyze your business needs and develop tailored AI strategies to optimize operations,
 				increase efficiency, and drive growth. We identify opportunities where AI can make the
@@ -39,7 +36,7 @@
 			<div class="bg-primary/10 mb-4 rounded-full">
 				<Code class="text-primary h-8 w-8" />
 			</div>
-			<h3 class="mb-3 md:text-xl lg:text-2xl">Maximize Efficiency With Custom Software Solutions</h3>
+			<h3 class="mb-3 md:text-xl lg:text-2xl">Custom Software Solutions</h3>
 			<p class="text-gray-700">
 				We build or provide software solutions tailored to your specific business requirements,
 				ensuring seamless migration from your existing systems.

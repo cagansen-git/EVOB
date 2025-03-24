@@ -10,7 +10,7 @@
 	Want to scale your business, boost revenue, and gain a competitive advantage? Contact us to
 	discuss more.
 </h1>
-<div class="flex flex-col gap-4 space-y-4 md:flex-row md:space-y-0">
+<div class="flex-inline space-y-4">
 	<Button
 		text="Schedule a discovery call"
 		link="https://cal.com/evob.tech/discoverycall?user=evob.tech"

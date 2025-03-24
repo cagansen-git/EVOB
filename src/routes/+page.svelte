@@ -12,7 +12,7 @@
 </svelte:head>
 
 <HeadingSection></HeadingSection>
-<Questions></Questions>
 <OurValues></OurValues>
+<Questions></Questions>
 <ServicesSection></ServicesSection>
 <Button link="/contact" text="Contact Us" target=""></Button>
