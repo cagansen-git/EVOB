@@ -30,7 +30,7 @@
 	];
 </script>
 
-<section id="ourValues" class="py-xl">
+<section id="ourValues" class="pb-xl">
 	<div class="mx-auto max-w-7xl py-xl">
 		<div class="grid grid-cols-1 gap-12 lg:grid-cols-12">
 			<!-- Left-aligned text description -->

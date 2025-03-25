@@ -5,16 +5,7 @@
 
 <main>
 	<h1 class="my-xl text-3xl leading-12 font-light tracking-tight">
-		We empower businesses to new growth & improvement opportunities, reduce costs, and optimize
-		operations through technology. Specializing in AI-driven automation, Large Language Models
-		(LLMs), customer & product analytics and intelligence, and custom software solutions, we
-		deliver impactful outcomes that drive efficiency and innovation.
+		At EVOB we are powering businesses to new growth & improvement opportunities through our approach and services for your needs for business success. Specializing in intelligent automation, large language models
+		(LLMs), customer & product analytics, and bespoke software solutions, we drive measurable business outcomes and sustainable growth for our clients across industries.
 	</h1>
-
-	<h2 class="mt-2xl py-sm text-3xl font-light">Our Commitment At EVOB,</h2>
-	<h3 class="text-2xl font-light">
-		We focus on delivering results that drive growth and innovation. Through technology and
-		a results-driven approach, we help businesses optimize operations, enhance decision-making, and
-		create sustainable value. Let’s transform your challenges into opportunities together.
-	</h3>
 </main>

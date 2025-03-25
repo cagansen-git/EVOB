@@ -66,7 +66,7 @@
 			<div class="bg-primary/10 mb-4 rounded-full">
 				<Users class="text-primary h-8 w-8" />
 			</div>
-			<h3 class="mb-3 md:text-xl lg:text-2xl">Say Goodbye To Repetitive Time Consuming Tasks With Automation</h3>
+			<h3 class="mb-3 md:text-xl lg:text-2xl">eliminate Repetitive Tasks With Automation</h3>
 			<p class="text-gray-700">
 				Streamline your operations and reduce costs with our intelligent automation solutions. We
 				identify repetitive tasks and implement AI-driven automation to increase efficiency, reduce
