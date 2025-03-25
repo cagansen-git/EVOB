@@ -9,7 +9,7 @@
 				{
 					title: 'Custom Business Software',
 					content:
-						'We will build tailored software solution that fits your exact business needs. Our team will work with you to understand your requirements, design the software, and develop a solution that drives efficiency and growth.'
+						'We will build tailored software that fits your exact business needs. Our team will work with you to understand your requirements, design the software, and develop a solution. From requirements gathering to development and beyond, we ensure clear communication and a solution that boosts efficiency and growth.'
 				},
 				{
 					title: 'Minimum Viable Product (MVP)',
@@ -19,23 +19,12 @@
 				{
 					title: 'Legacy Software Modernization',
 					content:
-						'We seamlessly migrate your existing software to a more robust and cost-effective solution. Whether upgrading legacy systems or transitioning to cloud-based platforms, we ensure a smooth migration with minimal downtime.'
-				},
-				{
-					title: 'Privacy-First Software Transition',
-					content:
-						'We will Move you to privacy-focused, self-hosted solutions to protect your business data and reduce dependency on third-party providers.'
+						'We seamlessly migrate your existing software to a more advance and robust solution. Whether replacing legacy systems or transitioning to cloud-based platforms, we ensure a smooth migration with minimal downtime.'
 				},
 				{
 					title: 'Software Migration & Replacement',
 					content:
-						'We will Seamlessly move your applications and data to new platforms with minimal downtime and maximum efficiency.'
-				},
-
-				{
-					title: 'Self-Hosted Alternative Implementation ',
-					content:
-						'We will move you from costly SaaS solutions to self-hosted and open-source alternatives for better control, security, and reduced expenses.'
+						'We provide a complete and seamless migration service for your applications and data. This means we move everything to your chosen new platform, whether it is the cloud, a new server, or a different database. We do this with careful planning, detailed testing, and expert execution to minimize downtime and maximize the efficiency of your systems. We keep you informed every step of the way, ensuring a smooth and successful transition.'
 				},
 				{
 					title: 'Ongoing Support & Maintenance',
@@ -48,32 +37,32 @@
 			title: 'AI Offerings',
 			items: [
 				{
-					title: 'AI Adaptation & Integration Strategy',
+					title: 'AI Adaptation & Integration',
 					content:
-						'Seamlessly integrate AI into your business with a tailored roadmap designed to enhance efficiency and innovation. We conduct in-depth strategy plans, assess AI use cases relevant to your industry, and select the best AI models and tools such as GPT, OpenAI, Claude, or Gemini. Our experts provide a structured deployment plan with workflow automation to ensure a smooth transition, setting your business up for long-term success with AI-driven capabilities.'
+						'We will seamlessly integrate AI into your business with a roadmap designed to enhance efficiency and innovation. We conduct in-depth strategy plans, assess AI use cases relevant to your industry, and select the best AI models and tools such as GPT, OpenAI, Claude, or Gemini. Our experts provide a structured deployment plan with workflow automation to ensure a smooth transition, setting your business up for long-term success with AI-driven capabilities.'
 				},
 				{
 					title: 'LLM Alignment & Optimization',
 					content:
-						'Deploy AI solutions that are customized to meet your business’s unique needs, ensuring maximum efficiency and accuracy. We handle AI model selection, prompt engineering, and optimization techniques such as Retrieval-Augmented Generation (RAG) to improve model accuracy. Our experts also fine-tune LLM models, ensuring compliance, reducing bias, and aligning AI outputs with business objectives.'
+						'We will adjust the LLM for your use case, customized to meet your business’s unique needs, ensuring maximum efficiency and accuracy. We handle AI model selection, prompt engineering, and optimization techniques such as Retrieval-Augmented Generation (RAG) to improve model accuracy. Our experts also fine-tune LLM models and aligning AI outputs with business objectives.'
 				},
 				{
-					title: 'AI-Powered Workflow Automation',
+					title: 'Advanced Customer Experience',
 					content:
-						'Transform your operations by leveraging AI to automate workflows, streamline decision-making, and enhance efficiency across sales, customer service, and internal processes. By eliminating repetitive tasks and enhancing operational accuracy, your company can reduce costs and focus on high-value growth opportunities.'
+						'We will improve your customer engagement, satisfaction, and retention with our genAI powered customer facing chatbots and helpdesk for your human agent, you will handle less of work cause of the ai chatbot powered by most intelligent llm on the market at that time. Our AI chatbots provide 24/7 support, With email integration, and social media integration your businesses can help your customers all message channels 7/24 leading to stronger customer relationships, leading to increased loyalty and lifetime value.'
 				},
 				{
-					title: 'AI-Driven Customer Experience Optimization',
+					title: 'LLM-Powered Workflow Automation',
 					content:
-						'Enhance customer engagement, satisfaction, and retention with AI-powered personalization and automation. Our AI chatbots and virtual assistants provide 24/7 support, while sentiment analysis and predictive insights help you understand and anticipate customer needs. With AI-driven personalization, email automation, and behavior-based recommendations, businesses can build stronger customer relationships, leading to increased loyalty and lifetime value.'
+						'We will implement AI solutions to transform your operations. We will automate repetitive tasks, streamline your decision-making processes, and enhance efficiency across sales, customer service, and internal operations. This will reduce costs, improve accuracy, and enable your team to focus on strategic initiatives.'
 				},
 				{
-					title: 'OCR and Document Analysis',
+					title: 'Document Processing, Analysis & Data Extraction',
 					content:
 						'We extract, structure, and analyze data from scanned documents, PDFs, and images. Automate the extraction of critical information—whether its invoices, contracts, legal documents, or business forms—and convert them into actionable insights. With intelligent document classification, data validation, and compliance checks, businesses can streamline operations, reduce manual errors, and improve data accuracy.'
 				},
 				{
-					title: 'SEO Optimized Content Generation',
+					title: 'SEO Optimized Content Creation',
 					content:
 						'SEO-optimized content that elevates your online presence and drives measurable results. With a strategic approach to SEO, we combine in-depth keyword research, content optimization, and industry best practices to ensure that your blogs, articles, and website copy not only engage your audience but also rank higher on search engines like Google. Our team focuses on producing content that improves organic traffic, boosts visibility, and drives conversions.'
 				},
