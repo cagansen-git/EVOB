@@ -27,6 +27,11 @@
 						'We provide a complete and seamless migration service for your applications and data. This means we move everything to your chosen new platform, whether it is the cloud, a new server, or a different database. We do this with careful planning, detailed testing, and expert execution to minimize downtime and maximize the efficiency of your systems. We keep you informed every step of the way, ensuring a smooth and successful transition.'
 				},
 				{
+					title: 'Proffesional Company Website',
+					content:
+						'We create a powerful business website that truly represents your brand, integrated with a robust Content Management System (CMS). This empowers you to take charge of your digital narrative, easily publishing updates, managing media, and ensuring your online identity evolves seamlessly with your business.'
+				},
+				{
 					title: 'Ongoing Support & Maintenance',
 					content:
 						'We provide continuous monitoring, updates, and technical support to ensure your software and systems run smoothly, securely, and efficiently.'
@@ -51,11 +56,7 @@
 					content:
 						'We will improve your customer engagement, satisfaction, and retention with our genAI powered customer facing chatbots and helpdesk for your human agent, you will handle less of work cause of the ai chatbot powered by most intelligent llm on the market at that time. Our AI chatbots provide 24/7 support, With email integration, and social media integration your businesses can help your customers all message channels 7/24 leading to stronger customer relationships, leading to increased loyalty and lifetime value.'
 				},
-				{
-					title: 'LLM-Powered Workflow Automation',
-					content:
-						'We will implement AI solutions to transform your operations. We will automate repetitive tasks, streamline your decision-making processes, and enhance efficiency across sales, customer service, and internal operations. This will reduce costs, improve accuracy, and enable your team to focus on strategic initiatives.'
-				},
+
 				{
 					title: 'Document Processing, Analysis & Data Extraction',
 					content:
@@ -76,6 +77,11 @@
 		{
 			title: 'Automation Offerings',
 			items: [
+				{
+					title: 'LLM-Powered Workflow Automation',
+					content:
+						'We will implement AI solutions to transform your operations. We will automate repetitive tasks, streamline your decision-making processes, and enhance efficiency across sales, customer service, and internal operations. This will reduce costs, improve accuracy, and enable your team to focus on strategic initiatives.'
+				},
 				{
 					title: 'Workflow Automation',
 					content:
