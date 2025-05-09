@@ -12,6 +12,6 @@
 		automate repetitive tasks to save time and money, and provide intelligence & analytics for
 		data-driven decision making.
 	</h2>
-	<Button link="/offers" text="See Offers" target=""></Button>
+	<Button link="/services" text="Our Services" target=""></Button>
 	<Button link="/contact" text="Contact Us" target=""></Button>
 </main>

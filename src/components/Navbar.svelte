@@ -40,7 +40,7 @@
 		>
 			<ul class="space-y-lg pt-lg">
 				<li>
-					<a href="/offers" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}
+					<a href="/services" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}
 						>Services</a
 					>
 				</li>

@@ -30,7 +30,7 @@
 					</li>
 					<li>
 						<a
-							href="/offers"
+							href="/services"
 							class="transition-colors hover:text-gray-300"
 							data-sveltekit-preload-data>Offers</a
 						>
