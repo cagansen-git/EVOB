@@ -37,13 +37,6 @@
 					</li>
 					<li>
 						<a
-							href="/services"
-							class="transition-colors hover:text-gray-300"
-							data-sveltekit-preload-data>Services</a
-						>
-					</li>
-					<li>
-						<a
 							href="/about"
 							class="transition-colors hover:text-gray-300"
 							data-sveltekit-preload-data>About</a

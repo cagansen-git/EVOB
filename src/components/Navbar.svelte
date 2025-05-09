@@ -18,7 +18,6 @@
 		<div class="gap-lg hidden items-center md:flex">
 			<a href="/contact" class="nav-link" data-sveltekit-preload-data>Contact Us</a>
 			<a href="/offers" class="nav-link" data-sveltekit-preload-data>Offers</a>
-			<a href="/services" class="nav-link" data-sveltekit-preload-data>Services</a>
 			<a href="/faq" class="nav-link" data-sveltekit-preload-data>FAQ</a>
 			<a href="/about" class="nav-link" data-sveltekit-preload-data>About</a>
 			<!-- <a href="/insights" class="nav-link" data-sveltekit-preload-data>Insights</a> -->
@@ -41,22 +40,9 @@
 		>
 			<ul class="space-y-lg pt-lg">
 				<li>
-					<a href="/contact" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}
-						>Contact Us</a
-					>
-				</li>
-				<li>
 					<a href="/offers" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}
-						>Offers</a
-					>
-				</li>
-				<li>
-					<a href="/services" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}
 						>Services</a
 					>
-				</li>
-				<li>
-					<a href="/faq" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}>FAQ</a>
 				</li>
 				<li>
 					<a href="/about" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}
@@ -64,7 +50,12 @@
 					>
 				</li>
 				<li>
-					<!-- <a href="/insights" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}>Insights</a> -->
+					<a href="/faq" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}>FAQ</a>
+				</li>
+				<li>
+					<a href="/contact" class="nav-link" data-sveltekit-preload-data onclick={toggleNavbar}
+						>Contact Us</a
+					>
 				</li>
 			</ul>
 		</div>
